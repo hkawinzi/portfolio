@@ -1,6 +1,10 @@
 h1 {
     color: crimson;
 }
+h2 {
+    color: rgb(51, 54, 54);
+    text-align: center
+}
 body {
     background-color: rgb(252, 252, 252);
 }
