@@ -1,10 +1,27 @@
 h1 {
     color: crimson;
+    text-align: center;
 }
 h2 {
     color: rgb(51, 54, 54);
-    text-align: center
+    text-align:left;
 }
 body {
     background-color: rgb(252, 252, 252);
+}
+title {
+    text-align: left;
+    border: 2ex ;
+        text-align: center;
+        border: 2ex ;
+        background: coral;
+        padding-top: 20rem rgb(136, 223, 165) ;
+        padding-bottom: 20rem rgb(168, 197, 141) ;
+        padding-right: 10rem rgb(105, 230, 230);
+        padding-left:10rem solid rgb(226, 158, 226);;
+    background: coral;
+    padding-top: 20rem rgb(136, 223, 165) ;
+    padding-bottom: 20rem rgb(168, 197, 141) ;
+    padding-right: 10rem rgb(105, 230, 230);
+    padding-left:10rem solid rgb(226, 158, 226);
 }
