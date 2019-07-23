@@ -20,12 +20,8 @@ h3 {
     font-family: 'Courgette', cursive;
     text-align: center;
     text-decoration: underline;
+    color:aqua;
 }
-
-#happy{
-    color: beige;
-}
-
-#happy li{
+a{
     color: bisque;
 }
