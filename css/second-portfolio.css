@@ -1,36 +1,31 @@
+.part1 {
+    background-image: url("../images/pngtree-Ocean-Sunset-Sun-Sky-background-photo-421498.jpg");
+    background-position: cover;
+    background-size:1380px 871px;
+}
+
 h1 {
-    color: crimson;
+    color:rgb(35, 35, 114);
     text-align: center;
+    font-family: 'Lobster', cursive;
 }
 h2 {
-    color: rgb(51, 54, 54);
+    color:rgb(231, 82, 27);
     text-align:left;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Vollkorn', serif;
 }
-body {
-    background-color: rgb(252, 252, 252);
+h3 {
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    text-decoration: underline;
 }
-title {
-    text-align: left;
-    border: 2ex ;
-        text-align: center;
-        border: 2ex ;
-        background: coral;
-        padding-top: 20rem rgb(136, 223, 165) ;
-        padding-bottom: 20rem rgb(168, 197, 141) ;
-        padding-right: 10rem rgb(105, 230, 230);
-        padding-left:10rem solid rgb(226, 158, 226);;
-    background: coral;
-    padding-top: 20rem rgb(136, 223, 165) ;
-    padding-bottom: 20rem rgb(168, 197, 141) ;
-    padding-right: 10rem rgb(105, 230, 230);
-    padding-left:10rem solid rgb(226, 158, 226);
+
+#happy{
+    color: beige;
 }
-.jumbotron {
-    padding: 2rem 1rem;
-    margin-bottom: 2rem;
-    background-color: #afdfd0;
-    border-radius: 0.3rem;
-    color: #dbd6f3;
-img {
-    float:left;
+
+#happy li{
+    color: bisque;
 }
